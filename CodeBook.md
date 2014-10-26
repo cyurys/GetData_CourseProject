@@ -59,5 +59,5 @@ Transformations
 
 Result
 ------
-The final dataset contains a column for each feature with average for each activity and each subject (subject and activity labels are in first two columns)
+The final dataset contains a header and a column for each feature with average for each activity and each subject (subject and activity labels are in first two columns)
 
